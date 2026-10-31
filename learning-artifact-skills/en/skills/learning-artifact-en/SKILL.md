@@ -7,7 +7,7 @@ description: Build a high-quality, private learning Artifact (an interactive "wo
 
 Goal: one page that lets a tired or lost learner re-enter any point of a heavy topic: **what it is, how it works or is computed, what is good or bad, what to conclude**, with worked examples and visuals, without cognitive overload. The structure is identical for every domain; only the content modules change.
 
-All page text is English, `lang="en" dir="ltr"`. (The Hebrew edition `learning-artifact` produces right-to-left Hebrew pages; do not mix the two framework folders.) Never guess people's pronouns.
+All page text is English, `lang="en" dir="ltr"`. Never guess people's pronouns.
 
 ## 0. Intake (ask only what you cannot infer)
 
